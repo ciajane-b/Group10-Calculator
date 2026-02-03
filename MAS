@@ -10,6 +10,17 @@ public class MAS {
     System.out.print("Enter second number: ");
     double num2 = sc.nextDouble();
 
+    System.out.print("Choose operation (+, -, *): ");
+        char operator = sc.next().charAt(0);
+
+        double result;
+
+        switch (operator) {
+            case '+':
+                result = num1 + num2;
+                System.out.println("Result: " + result);
+                break;
+
     }
 
 }
