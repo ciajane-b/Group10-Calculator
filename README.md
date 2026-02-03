@@ -1,1 +1,6 @@
-# Group10-Calculator
+Leader:
+Ciara Jane Barro
+
+Members:
+Aldrian Maure
+Santino Arevalo
